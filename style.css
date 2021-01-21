@@ -45,7 +45,27 @@
     height: 100vh;
     width: 100vw;
     background-color: rgb(73, 193, 240);
+    display: grid;
+    place-content: center;
+    color: black;
   }
+
+  .mobileText {
+    color: rgb(27, 27, 27);
+    font-size: 40px;
+    font-weight: 700;
+    padding: 20px;
+
+  }
+
+  .mobileSubtext {
+    color: rgb(27, 27, 27);
+    font-size: 15px;
+    font-weight: 500;
+    padding: 0 20px;
+
+  }
+  
   
 
 
